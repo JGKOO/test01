@@ -11,7 +11,7 @@ func main() {
 
 	list2 := []*QueryProjectTagModel{}
 
-	list2 = append(list2,&QueryProjectTagModel{ 
+	list2 = append(list2,&QueryProjectTagModel{
 		TagData: "123123",
 		TagId:   "12321",
 		Created: "12312312",
